@@ -1,4 +1,4 @@
-#Deploy an Nginx Web Server with Docker
+## Deploy an Nginx Web Server with Docker
 
 ## Goal
 Run an Nginx server using Docker.
